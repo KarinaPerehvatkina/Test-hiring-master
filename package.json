@@ -34,6 +34,6 @@
     "typescript-tslint-plugin": "^1.0.1"
   },
   "dependencies": {
-    "async-mutex": "^0.4.0"
+    "async-mutex": "^0.4.1"
   }
 }
